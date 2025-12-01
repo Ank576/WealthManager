@@ -1,5 +1,5 @@
 # WealthManager
-# Amplio Wealth Screen Redesign – UX Prototype
+# Wealth Screen Redesign – UX Prototype
 
 This repository showcases a UX prototype for the redesigned Amplio wealth screen, focused on a cleaner, more intuitive, and user-centric experience for managing investments.
 
