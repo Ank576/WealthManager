@@ -34,8 +34,8 @@ This layout enhances readability and quick analysis of portfolio composition.
 ## Contact
 
 For questions or collaboration, contact:  
-ankit.saxena76@nmims.edu.in 
-[LinkedIn Profile](https://linkedin.com/in/ankit-product
+- ankit.saxena76@nmims.edu.in 
+- [LinkedIn Profile](https://linkedin.com/in/ankit-product
 
 ---
 
